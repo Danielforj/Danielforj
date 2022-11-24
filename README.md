@@ -1,6 +1,6 @@
 ## Oi, eu sou o Daniel Freitas, estudante Téc. Informática na Faetec/RJ e Tecnólogo em Sistemas para a Internet 
 
-- 🏍️ Trabalhando atualmente como Motoboy, sonho em me tornar um Dev Front End
+-                              🏍️ Trabalhando atualmente como Motoboy, sonho em me tornar um Dev Front End
 
 <div align="center">
   <a href="https://github.com/Danielforj">
@@ -26,7 +26,7 @@
 <div> 
   <br> </br>
   Contato:
-  - <br> </br>
+  <br> </br>
   <a href = "mailto:danielforj89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielfreitaso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
