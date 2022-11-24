@@ -1,6 +1,6 @@
 ## Oi, eu sou o Daniel Freitas, estudante Téc. Informática na Faetec/RJ e Tecnólogo em Sistemas para a Internet 
 
--                              🏍️ Trabalhando atualmente como Motoboy, sonho em me tornar um Dev Front End
+                               🏍️ Trabalhando atualmente como Motoboy, sonho em me tornar um Dev Front End 🖥️
 
 <div align="center">
   <a href="https://github.com/Danielforj">
