@@ -1,4 +1,4 @@
-## Oi, eu sou o Daniel Freitas, estudante Téc. Informática na Faetec/RJ e Tecnólogo em Sistemas para a Internet 
+## Oi, eu sou o Daniel Freitas, Téc. Informática pela Faetec/RJ e estudante de Tecnólogo em Análise e desenvolvimento de sistemas na Unigranrio.
 
 🏍️ Trabalhando atualmente como Motoboy, sonho em me tornar um Desenvolvedor de Software 🖥️
 
