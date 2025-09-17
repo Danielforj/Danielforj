@@ -1,32 +1,98 @@
-## Oi, eu sou o Daniel Freitas, Téc. Informática pela Faetec/RJ e estudante de Tecnólogo em Análise e desenvolvimento de sistemas no Centro Universitário Celso Lisboa.
+# 👩🏻‍💻 DANIEL FREITAS
+
+**`DEV Trainee`**
+
+Me chamo Daniel Freitas, tenho 36 anos e sou natural do Rio de Janeiro. Daniel Freitas, Técnico em Informática pela Faetec/RJ e estudante de Tecnólogo em Análise e desenvolvimento de sistemas no Centro Universitário Celso Lisboa.
 
 🏍️ Trabalhando atualmente como Motoboy, sonho em me tornar um Desenvolvedor de Software 🖥️
 
-<div align="center">
-  <a href="https://github.com/Danielforj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielforj&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielforj&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+### 🤖 Linguagens e Tecnologias
 
-<div style="display: inline_block"><br>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+  />
+
+<img 
+    align="left" 
+    alt="Cobol" 
+    title="Cobol"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg"
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
+
   
-  Estudando:
-  <br> </br>
-  <img align="center" alt="Danielforj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Danielforj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <br> </br>
-  Estudando e desenvolvendo em:
-  <br> </br>
-  <img align="center" alt="Danielforj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Danielforj-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Danielforj-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
-</div>
-  
-<div> 
-  <br> </br>
-  Contato:
-  <br> </br>
-  <a href = "mailto:danielforj89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danielfreitaso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- </div>
+
