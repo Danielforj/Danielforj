@@ -44,6 +44,15 @@ Me chamo Daniel Freitas, tenho 36 anos e sou natural do Rio de Janeiro. Técnico
 
 <img 
     align="left" 
+    alt="Cobol" 
+    title="Cobol"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg"
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -60,14 +69,7 @@ Me chamo Daniel Freitas, tenho 36 anos e sou natural do Rio de Janeiro. Técnico
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
   />
 
-<img 
-    align="left" 
-    alt="Cobol" 
-    title="Cobol"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg"
-/>
+
 
 <br/>
 <br/>
