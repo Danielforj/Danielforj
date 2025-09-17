@@ -2,7 +2,7 @@
 
 **`DEV Trainee`**
 
-Me chamo Daniel Freitas, tenho 36 anos e sou natural do Rio de Janeiro. Técnico em Informática pela Faetec/RJ e estudante de Tecnólogo em Análise e desenvolvimento de sistemas no Centro Universitário Celso Lisboa.
+Me chamo Daniel Freitas, tenho 36 anos e sou natural do Rio de Janeiro. Técnico em Informática pela Faetec/RJ e estudante de Análise e desenvolvimento de sistemas no Centro Universitário Celso Lisboa.
 
 🏍️ Trabalhando atualmente como Motoboy, sonho em me tornar um Desenvolvedor de Software 🖥️
 
